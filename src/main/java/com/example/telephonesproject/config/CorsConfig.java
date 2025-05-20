@@ -10,8 +10,7 @@ public class CorsConfig implements WebMvcConfigurer {
     public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/**")
                 .allowedOrigins(
-                        "https://stalwart-nougat-e2115d.netlify.app",  // Votre URL Netlify
-                        "http://localhost:4200"                        // Pour le dev local
+                        "https://stalwart-nougat-e2115d.netlify.app"                  // Pour le dev local
                 )
                 .allowedMethods("GET", "POST", "PUT", "DELETE")
                 .allowedHeaders("*")
