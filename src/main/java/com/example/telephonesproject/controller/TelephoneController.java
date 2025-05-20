@@ -28,7 +28,6 @@ import java.util.Optional;
 
 @RestController
 @RequestMapping("/api/telephones")
-@CrossOrigin("*")
 public class TelephoneController {
 
     private final TelephoneService telephoneService;

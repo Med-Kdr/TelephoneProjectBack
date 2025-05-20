@@ -1,2 +1,4 @@
 ID | iPhone | État Batterie | IMEI | Stockage | Prix | Nom Client | Statut | Date Création
 ------------------------------------------------------------
+1 | iphone 13 | 89 | 356644548737485 | 256 | 6000 | karim | en_stock | 2025-05-01T02:50:17
+2 | 15 Pro | 65 | 88875547655 | 256 | 8900 | saad | Vendu | 2025-05-19T21:35:32
